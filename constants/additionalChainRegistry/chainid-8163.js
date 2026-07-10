@@ -1,7 +1,7 @@
 export const data = {
   name: "Steem Virtual Machine Testnet",
   chain: "SVM",
-  rpc: ["https://evmrpc.blazescanner.org"],
+  rpc: ["https://evm.steemscanner.com"],
   faucets: [],
   nativeCurrency: {
     name: "STEEM",
